@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sanjev
-- 👀 I’m interested in Python, My SQL & react JS
+- 👀 I’m interested in Python, My SQL & node JS
 - 🌱 I’m currently learning Node Js
 - 📫 How to reach me @ sanjevkumar961@gmai.com
 
