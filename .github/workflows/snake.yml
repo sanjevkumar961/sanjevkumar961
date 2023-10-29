@@ -3,24 +3,25 @@ name: Generate snake animation
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
-    - master
+      - master
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Check if github.repository_owner is defined
+        id: check_owner
+        run: echo "::set-output name=owner::${{ github.repository_owner || 'Sanjev Kumar T' }}"
+      
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ steps.check_owner.outputs.owner }}
           outputs: dist/snake.svg
-
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
