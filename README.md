@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">I'm Sanjev from Trichy, Tamil Nadu<br><br>- 🔭 I’m currently working as a System Engineer at Free by Workplace Fabric, focusing on automation and web app development.<br>- 🌱 I'm learning **AWS** & **DevOps** to expand my skill set.<br>- ⚡ In my free time, I enjoy exploring new tech and watching movies.</h4>
+<h4 align="left">I'm Sanjev from Trichy, Tamil Nadu<br><br>- 🔭 I’m currently working as a System Engineer at Freespace by Workplace Fabric, focusing on automation and web app development.<br>- 🌱 I'm learning **AWS** & **DevOps** to expand my skill set.<br>- ⚡ In my free time, I enjoy exploring new tech and watching movies.</h4>
 
 ###
 
@@ -45,7 +45,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/CATEGORY/ICON_SVG_NAME.svg" height="40" alt="amazonwebservices logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
   <img width="10" />
