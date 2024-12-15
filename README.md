@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">I'm Sanjev from Trichy, Tamil Nadu<br><br>- 🔭 I’m currently working as a **System Engineer** at **Freespace by Workplace Fabric**, focusing on **automation** and **web app development**.<br>- 🌱 I'm learning **AWS** and **DevOps** to broaden my skill set and explore cloud and infrastructure automation.<br>- 🚀 I’ve worked on projects involving **React.js**, **Node.js**, **Python** for backend automation, and **MySQL** for database management.<br>- ⚡ In my free time, I explore new tech, build personal projects, and enjoy watching movies.</h4>
+<h4 align="left">I'm Sanjev from Trichy, Tamil Nadu<br><br>- 🔭 I’m currently working as a <b>System Engineer</b> at <b>Freespace by Workplace Fabric</b>, focusing on <b>automation</b> and <b>web app development</b>.<br>- 🌱 I'm learning <b>AWS</b> and <b>DevOps</b> to broaden my skill set and explore cloud and infrastructure automation.<br>- 🚀 I’ve worked on projects involving <b>React.js</b>, <b>Node.js</b>, <b>Python</b> for backend automation, and <b>MySQL</b> for database management.<br>- ⚡ In my free time, I explore new tech, build personal projects, and enjoy watching movies.</h4>
 
 ###
 
@@ -66,13 +66,16 @@
 
 ### 
 
-- **[Web-Based Food Ordering System](https://github.com/sanjevkumar961/web-based-food-ordering)**: A web app developed using **React.js** and **Node.js** for users to order food from vendors, with admin functionalities to manage food items and orders.
+- **[Web-Based Food Ordering System](https://github.com/sanjevkumar961/Hungrezy)**
+  - **[Frontend Repo](https://github.com/sanjevkumar961/Hungrezy)**: A web app developed using **React.js** for users to order food from vendors, with admin functionalities to manage food items and orders.
+  - **[Backend Repo](https://github.com/sanjevkumar961/Hungrezy-Backend)**: A Node.js backend that supports the food ordering system, including order management and database operations with MySQL.
   
-- **[Virtual Credit Payment System](https://github.com/sanjevkumar961/virtual-credit-payment-system)**: A payment system for food vendors using **Node.js** for backend and **React.js** for the frontend, integrating secure payment gateways and user management features.
+- **[Virtual Credit Payment System](https://github.com/sanjevkumar961/Virtual-Credit-Payment-System-Frontend)**
+  - **[Frontend Repo](https://github.com/sanjevkumar961/Virtual-Credit-Payment-System-Frontend)**: A payment system for food vendors built with **React.js** for the frontend, integrating secure payment gateways and user management features.
+  - **[Backend Repo](https://github.com/sanjevkumar961/Virtual-Credit-Payment-System-Backend)**: A **Node.js** backend that supports payment processing and user management for the system, using **MySQL** for database management.
   
-- **[Barcode Scanning Automation Tool](https://github.com/sanjevkumar961/barcode-scanning-to-excel)**: A Python-based tool to scan barcodes and automatically save serial numbers in an **Excel** sheet, streamlining inventory management processes.
-  
-- **[MFM376 Meter Modbus Integration](https://github.com/sanjevkumar961/modbus-meter-integration)**: A Node-RED program for collecting data from **MFM376** meters and performing frequency measurements.
+- **[Barcode Scanning-MFM485 & Meter Modbus Integration](https://github.com/sanjevkumar961/Barcode-Scanning-MFM485-Meter-Modbus-Integration)**: A Python-based tool to scan barcodes and automatically save serial numbers in an **Excel** sheet, streamlining inventory management processes.
+A Python program for collecting data from **MFM485** meters and performing frequency measurements.
 
 ###
 
@@ -102,5 +105,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
