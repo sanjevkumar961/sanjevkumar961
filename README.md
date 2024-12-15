@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">I'm Sanjev from Trichy, Tamil Nadu<br><br>- 🔭 I’m currently working as a System Engineer at Freespace by Workplace Fabric, focusing on automation and web app development.<br>- 🌱 I'm learning **AWS** & **DevOps** to expand my skill set.<br>- ⚡ In my free time, I enjoy exploring new tech and watching movies.</h4>
+<h4 align="left">I'm Sanjev from Trichy, Tamil Nadu<br><br>- 🔭 I’m currently working as a **System Engineer** at **Freespace by Workplace Fabric**, focusing on **automation** and **web app development**.<br>- 🌱 I'm learning **AWS** and **DevOps** to broaden my skill set and explore cloud and infrastructure automation.<br>- 🚀 I’ve worked on projects involving **React.js**, **Node.js**, **Python** for backend automation, and **MySQL** for database management.<br>- ⚡ In my free time, I explore new tech, build personal projects, and enjoy watching movies.</h4>
 
 ###
 
@@ -59,6 +59,20 @@
 ###
 
 <h4 align="left">🔥   My Status: Learning DevOps and AWS</h4>
+
+###
+
+<h3 align="left">💻 Featured Projects</h3>
+
+### 
+
+- **[Web-Based Food Ordering System](https://github.com/sanjevkumar961/web-based-food-ordering)**: A web app developed using **React.js** and **Node.js** for users to order food from vendors, with admin functionalities to manage food items and orders.
+  
+- **[Virtual Credit Payment System](https://github.com/sanjevkumar961/virtual-credit-payment-system)**: A payment system for food vendors using **Node.js** for backend and **React.js** for the frontend, integrating secure payment gateways and user management features.
+  
+- **[Barcode Scanning Automation Tool](https://github.com/sanjevkumar961/barcode-scanning-to-excel)**: A Python-based tool to scan barcodes and automatically save serial numbers in an **Excel** sheet, streamlining inventory management processes.
+  
+- **[MFM376 Meter Modbus Integration](https://github.com/sanjevkumar961/modbus-meter-integration)**: A Node-RED program for collecting data from **MFM376** meters and performing frequency measurements.
 
 ###
 
