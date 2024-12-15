@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -26,11 +26,11 @@
 
 ###
 
-<h4 align="left">I'm Sanjev from Trichy, Tamil Nadu<br><br>- 🔭 I’m working as Associate System Engineer at Freespace Coimbatore.<br>- 📚 I'm currently learning Aws & DevOps Engineering.<br>- ⚡ In my free time I watch movies.</h4>
+<h4 align="left">I'm Sanjev from Trichy, Tamil Nadu<br><br>- 🔭 I’m currently working as a System Engineer at Free by Workplace Fabric, focusing on automation and web app development.<br>- 🌱 I'm learning **AWS** & **DevOps** to expand my skill set.<br>- ⚡ In my free time, I enjoy exploring new tech and watching movies.</h4>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
@@ -58,11 +58,11 @@
 
 ###
 
-<h4 align="left">🔥   My Status : Learning DevOps</h4>
+<h4 align="left">🔥   My Status: Learning DevOps and AWS</h4>
 
 ###
 
-<h3 align="left">💻 Github Contribution</h3>
+<h3 align="left">💻 GitHub Contribution</h3>
 
 ###
 
