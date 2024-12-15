@@ -45,7 +45,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="10" />
-  <img src="https://unpkg.com/aws-icons@2.1.0/icons/architecture-service/AmazonEC2.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-ipad-144-smile.png" height="40" alt="amazonwebservices logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
   <img width="10" />
